@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://erillaza-rco-s.github.io/info-pages/sitemap.xml
